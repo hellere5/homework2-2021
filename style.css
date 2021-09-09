@@ -20,12 +20,6 @@ p{
     padding-top: 15px;
 }
 
-footer{
-    text-align: center;
-    padding-right: 10px;
-    padding-bottom: 10px;
-}
-
 img{
     display: block;
     margin-right: auto;
@@ -62,3 +56,10 @@ div{
     background: #008000;
     text-align: left;
 }
+
+footer{
+    text-align: center;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+/* 10px padding on the bottom and right only. (No padding on the left or top.) */
