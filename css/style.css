@@ -61,5 +61,6 @@ footer{
     text-align: center;
     padding-right: 10px;
     padding-bottom: 10px;
+    padding-left: 0px;
+    padding-top: 0px;
 }
-/* 10px padding on the bottom and right only. (No padding on the left or top.) */
